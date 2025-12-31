@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="et" data-theme="newyear">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuldvillak</title>
+  <script type="module" crossorigin src="/assets/index-CZd1Dh6d.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-BxgW00Jg.css">
+</head>
+<body>
+    <!-- Landing Screen -->
+    <div id="landing-screen" class="screen active">
+        <button id="theme-toggle" class="theme-toggle">🎃 Halloween</button>
+        <h1 class="landing-title">Kuldvillak 🎆</h1>
+        <div style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center;">
+            <div class="game-card" id="game1-card">Mäng 1</div>
+            <div class="game-card" id="game2-card">Mäng 2</div>
+            <div class="game-card game-card-create" id="create-game-card">
+                <span class="create-icon">+</span>
+                <span>Loo mäng</span>
+            </div>
+        </div>
+        <div id="custom-games-container" class="custom-games-section"></div>
+        <div id="saved-games-container" class="saved-games-section"></div>
+        <div class="walking-cats">
+            <div class="cat cat-1">🎇</div>
+            <div class="cat cat-2">🥂</div>
+        </div>
+    </div>
+
+    <!-- Editor Screen -->
+    <div id="editor-screen" class="screen">
+        <div class="editor-container">
+            <div class="editor-header">
+                <button class="btn-icon" id="editor-back-btn" title="Tagasi">←</button>
+                <h2 class="editor-title">Mängu Redaktor</h2>
+                <div class="editor-actions">
+                    <button class="btn btn-small" id="import-btn">Import</button>
+                    <button class="btn btn-small" id="export-btn">Export</button>
+                </div>
+            </div>
+            <div class="editor-content">
+                <div class="editor-field">
+                    <label class="editor-label">Mängu pealkiri:</label>
+                    <input type="text" id="editor-game-title" class="setup-input" placeholder="Minu mäng">
+                </div>
+                <div class="editor-categories">
+                    <label class="editor-label">Kategooriad:</label>
+                    <div class="category-inputs" id="category-inputs"></div>
+                </div>
+                <div class="editor-questions">
+                    <label class="editor-label">Küsimused (kliki lahtril muutmiseks):</label>
+                    <div class="editor-board" id="editor-board"></div>
+                </div>
+            </div>
+            <div class="editor-footer">
+                <button class="btn btn-primary" id="save-game-btn">Salvesta mäng</button>
+            </div>
+        </div>
+        <input type="file" id="import-file-input" accept=".json" style="display: none;">
+    </div>
+
+    <!-- Question Editor Modal -->
+    <div id="question-editor-modal" class="modal">
+        <div class="question-editor-content">
+            <h3 class="question-editor-title">Muuda küsimust</h3>
+            <div class="question-editor-field">
+                <label class="editor-label">Küsimus:</label>
+                <textarea id="edit-question-text" class="editor-textarea" rows="4" placeholder="Sisesta küsimus..."></textarea>
+            </div>
+            <div class="question-editor-field">
+                <label class="editor-label">Vastus:</label>
+                <input type="text" id="edit-answer-text" class="setup-input" placeholder="Sisesta vastus...">
+            </div>
+            <div class="question-editor-buttons">
+                <button class="btn btn-secondary" id="cancel-question-edit-btn">Tühista</button>
+                <button class="btn btn-primary" id="save-question-edit-btn">Salvesta</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Team Setup Screen -->
+    <div id="setup-screen" class="screen">
+        <div class="setup-container">
+            <h2 class="setup-title">Tiimide Seadistus</h2>
+            <div class="setup-group">
+                <label class="setup-label">Tiimide arv:</label>
+                <input type="number" id="team-count" class="setup-input" value="3" min="2" max="6">
+            </div>
+            <div id="team-inputs" class="team-inputs"></div>
+            <button class="btn btn-primary" id="start-game-btn">Alusta Mängu</button>
+        </div>
+    </div>
+
+    <!-- Game Screen -->
+    <div id="game-screen" class="screen">
+        <div class="game-container">
+            <div class="game-header">
+                <h2 class="game-title" id="game-title">Kuldvillak 🎆</h2>
+                <div id="scores-container" class="scores-container"></div>
+            </div>
+            <div id="jeopardy-board" class="jeopardy-board"></div>
+        </div>
+    </div>
+
+    <!-- Question Modal -->
+    <div id="question-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-value" id="modal-value"></div>
+            <div class="modal-question" id="modal-question"></div>
+            <div class="modal-answer" id="modal-answer"></div>
+            <div class="modal-buttons">
+                <div id="team-buttons" class="team-buttons"></div>
+                <button class="btn btn-secondary" id="close-modal-btn">Sulge</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- End Screen -->
+    <div id="end-screen" class="screen">
+        <div class="end-container">
+            <h1 class="end-title">Mäng Läbi!</h1>
+            <div id="podium" class="podium"></div>
+            <div class="end-buttons">
+                <button class="btn btn-secondary" id="back-to-menu-btn">Tagasi Menüüsse</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="app"></div>
+</body>
+</html>

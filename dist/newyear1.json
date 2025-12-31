@@ -1,0 +1,162 @@
+{
+  "title": "Minu mäng",
+  "categories": [
+    "NYE  traditsioonid",
+    "Poliitika",
+    "Kollane ajakirjandus",
+    "Sport",
+    "Varia"
+  ],
+  "questions": [
+    {
+      "category": 0,
+      "value": 100,
+      "question": "Eesti rahvatraditsioon: Just selle tegevuse järel interpreteeritakse kujundeid tuleviku ennustamiseks",
+      "answer": "Tina valamine"
+    },
+    {
+      "category": 0,
+      "value": 200,
+      "question": "Ilutulestiku hakati laskma just sel põhjusel",
+      "answer": "Peletada eemale kurjad vaimud"
+    },
+    {
+      "category": 0,
+      "value": 300,
+      "question": "Just nii mitu rohelist viinamarja süües tuleb uuel aastal hea õnn",
+      "answer": "12"
+    },
+    {
+      "category": 0,
+      "value": 400,
+      "question": "Ilutulestiku laskmise traditsioon on pärit just sellest riigist",
+      "answer": "Hiina"
+    },
+    {
+      "category": 0,
+      "value": 500,
+      "question": "New York palli kukkumine traditsioon sai alguse just sel põhjusel",
+      "answer": "Ilutulestik oli keelatud"
+    },
+    {
+      "category": 1,
+      "value": 100,
+      "question": "USA president Trump nimetas just selle lahe ümber Ameerika laheks",
+      "answer": "Mehhiko laht"
+    },
+    {
+      "category": 1,
+      "value": 200,
+      "question": "Poliitik, kelle väljaütlemisse on kuulunud: \"Sotsid seina äärde ja pumppüssiga maha lasta\"\n",
+      "answer": "Kris Kärner"
+    },
+    {
+      "category": 1,
+      "value": 300,
+      "question": "Trump ja Putin on 2025 aastal kohtunud just nii mitu kords",
+      "answer": "5"
+    },
+    {
+      "category": 1,
+      "value": 400,
+      "question": "Detsembris 25 ametisse astunud Tallinna linnapea",
+      "answer": "Peeter Raudsepp"
+    },
+    {
+      "category": 1,
+      "value": 500,
+      "question": "8. mail valiti just tema uueks katoliku kiriku paavstiks",
+      "answer": "Pope Leo XIV, Cardinal Robert Provost"
+    },
+    {
+      "category": 2,
+      "value": 100,
+      "question": "Taagepera lossis 2025. aastal suvepäevi pidanud organisatsioon pälvis vastuolulist kajastust, mille taustal torkasid silma ka 2000 eurot maksvad segistid kontoris.",
+      "answer": "Tervisekassa"
+    },
+    {
+      "category": 2,
+      "value": 200,
+      "question": "2025 aastal abielu lahututamisest teatanud Taavi Rõivas sattus WC skandaali just selle seltskonnastaariga",
+      "answer": "Brigitte Susanne hunt"
+    },
+    {
+      "category": 2,
+      "value": 300,
+      "question": "Ta saavutas Delfi mõjukate edetabelis üldarvestuses 17 koha ja naistest edestad teda vaid Kaja Kallas",
+      "answer": "Mallukas"
+    },
+    {
+      "category": 2,
+      "value": 400,
+      "question": "Just tema, endine EKRE liige ja praegune riigikogulane käis spapuhkusel koos armukesega ja kandis kulud kuluhüvitistesse",
+      "answer": "Kalle Grünthal "
+    },
+    {
+      "category": 2,
+      "value": 500,
+      "question": "Coldplay Kiss cam videos jäi vahele just selle firma CEO ja HR",
+      "answer": "Astronomer"
+    },
+    {
+      "category": 3,
+      "value": 100,
+      "question": "Skandaalne sporditreener Mati Alaveri kutsuti dopingumaalimas just nii",
+      "answer": "Kindral"
+    },
+    {
+      "category": 3,
+      "value": 200,
+      "question": "2025a spordis pausi võtnud kettagolfimängija Kristin Lätt tegeles enne kettagolfi just selle spordialaga",
+      "answer": "Murdmaasuusatamine"
+    },
+    {
+      "category": 3,
+      "value": 300,
+      "question": "Euroopa spordipealinn 2025",
+      "answer": "Tallinn"
+    },
+    {
+      "category": 3,
+      "value": 400,
+      "question": "6 septembril 2025 purustas F1 just see sõitja Monza ringrajal kiirusrekordi",
+      "answer": "Tallinn"
+    },
+    {
+      "category": 3,
+      "value": 500,
+      "question": "Eesti möödunud aasta edukaim e-sportlane Robin Kool liitus selle tiimiga 2025. aasta jaanuaris.",
+      "answer": "Vitality"
+    },
+    {
+      "category": 4,
+      "value": 100,
+      "question": "19 oktroobril rööviti just sellest muuseumist 88mln euro väärtuses ehteid",
+      "answer": "Louvre"
+    },
+    {
+      "category": 4,
+      "value": 200,
+      "question": "Taylor swifti viimase albumi nimi on just see",
+      "answer": "The life of a showgirl"
+    },
+    {
+      "category": 4,
+      "value": 300,
+      "question": "1. Jaanuar 2026 aastal liitub just see riik eurotsooniga",
+      "answer": "Bulgaaria"
+    },
+    {
+      "category": 4,
+      "value": 400,
+      "question": "2025. aastal toimus Vatikanis see katoliku kiriku traditsioon, mida peetakse iga 25 aasta järel",
+      "answer": "juubeliaasta ehk avatakse püha uks püha basilicas"
+    },
+    {
+      "category": 4,
+      "value": 500,
+      "question": "Hiina rahvakalendri järgi on 2026 aasta just selle looma aasta",
+      "answer": "Punane tulehobune"
+    }
+  ]
+}
