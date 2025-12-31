@@ -1,0 +1,163 @@
+{
+  "title": "Game1",
+  "categories": [
+    "2025",
+    "4-täheline",
+    "Padel",
+    "Halloween",
+    "Trikiga küsimused"
+  ],
+  "questions": [
+    {
+      "category": 0,
+      "value": 100,
+      "question": "Just nii mitmenda koha sai Tommy Cash Eurovisioonil Šveitsis.",
+      "answer": "3. koht"
+    },
+    {
+      "category": 0,
+      "value": 200,
+      "question": "Just seda NATO artiklit kasutas Eesti septembris.",
+      "answer": "Artikkel 4"
+    },
+    {
+      "category": 0,
+      "value": 300,
+      "question": "See Hiinast päritolu tehisintellekti mudel põhjustas suurima ühepäevase Nvidia aktsia kukkumise.",
+      "answer": "DeepSeek"
+    },
+    {
+      "category": 0,
+      "value": 400,
+      "question": "President, kes käivitas omanimelise meemimündi 3 päeva enne ametisse astumist.",
+      "answer": "Donald Trump"
+    },
+    {
+      "category": 0,
+      "value": 500,
+      "question": "Just see minister sai valitsuse liikmetest KOV 2025 valimistel kõige kesisema häältesaagi.",
+      "answer": "Igor Taro (33 häält)"
+    },
+
+    {
+      "category": 1,
+      "value": 100,
+      "question": "Isikuandmete kaitse üldmäärus.",
+      "answer": "GDPR"
+    },
+    {
+      "category": 1,
+      "value": 200,
+      "question": "See mööblikauplus on muuseas tuntud lihapallide poolest.",
+      "answer": "IKEA"
+    },
+    {
+      "category": 1,
+      "value": 300,
+      "question": "1938 viis see autotootja läbi maailma esimese põrketesti.",
+      "answer": "Audi"
+    },
+    {
+      "category": 1,
+      "value": 400,
+      "question": "Moderne pildiformaat, millega Google tuli välja 2010 aastal.",
+      "answer": "WebP"
+    },
+    {
+      "category": 1,
+      "value": 500,
+      "question": "Just selle firma nimi on tõlgituna 'mängi hästi'.",
+      "answer": "LEGO"
+    },
+    {
+      "category": 2,
+      "value": 100,
+      "question": "Padel on teine kõige populaarsem spordiala just selles riigis",
+      "answer": "Hispaania"
+    },
+    {
+      "category": 2,
+      "value": 200,
+      "question": "Löök padelis, millega suunatakse pall jõuliselt allapoole eesmärgiga võita punkt.",
+      "answer": "Smash"
+    },
+    {
+      "category": 2,
+      "value": 300,
+      "question": "Just selle keskuse katusel avati üks esimesi padeliväljakuid Eestis.",
+      "answer": "Viru Keskus (2021)"
+    },
+    {
+      "category": 2,
+      "value": 400,
+      "question": "Taktikaline padeli löök, mis lüüakse kõrge kaarena üle vastaste pea nende tagaseina juurde",
+      "answer": "Lob"
+    },
+    {
+      "category": 2,
+      "value": 500,
+      "question": "Need on padeli väljaku standard mõõtmed.",
+      "answer": "10x20 meetrit"
+    },
+    {
+      "category": 3,
+      "value": 100,
+      "question": "Mida ütlevad halloweeni ajal ukselt uksele käivad ja kommi nuruvad lapsed?",
+      "answer": "Komm või pomm"
+    },
+    {
+      "category": 3,
+      "value": 200,
+      "question": "Halloween on populaarsuselt teine püha maailmas, just see on esimene",
+      "answer": "Jõulud"
+    },
+    {
+      "category": 3,
+      "value": 300,
+      "question": "USA linn, kus toimub suurim halloweeni paraad",
+      "answer": "New York"
+    },
+    {
+      "category": 3,
+      "value": 400,
+      "question": "Just sellest riigist jõudis halloweeni tähistamine USA-sse",
+      "answer": "Iirimaa"
+    },
+    {
+      "category": 3,
+      "value": 500,
+      "question": "Samhainofoobia on kartus just selle ees",
+      "answer": "Halloweeni"
+    },
+    {
+      "category": 4,
+      "value": 100,
+      "question": "Mati isal on 5 poega. Nende nimed on 10, 20, 30 ja 40. Mis on viienda nimi?",
+      "answer": "Mati"
+    },
+    {
+      "category": 4,
+      "value": 200,
+      "question": "Läbib kogu maailma, aga püsib ikka ühes nurgas",
+      "answer": "Postmark"
+    },
+    {
+      "category": 4,
+      "value": 300,
+      "question": "Just enne Mount Everesti avastamist oli just see kõige kõrgeim mägi maailmas",
+      "answer": "Mount Everest"
+    },
+    {
+      "category": 4,
+      "value": 400,
+      "question": "Kui sisened ruumi tikkudega ja seal on küünal, õlilamp ja kuumuti. Mis on see, mida süütad esimesena?",
+      "answer": "Tikud"
+    },
+    {
+      "category": 4,
+      "value": 500,
+      "question": "Kuulub sulle, aga teised kasutavad rohkem",
+      "answer": "Nimi"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "title": "Game2",
+  "categories": ["Ükssarvikud", "Filmid", "Autod", "Discgolf", "Varia"],
+  "questions": [
+    {
+      "category": 0,
+      "value": 100,
+      "question": "Just sellest ettevõttest sai Eesti esimene ükssarvik",
+      "answer": "Skype"
+    },
+    {
+      "category": 0,
+      "value": 200,
+      "question": "Voogedastuse teenust pakkuv ettevõte, mis asutati Stockholmis 2006. aastal",
+      "answer": "Spotify"
+    },
+    {
+      "category": 0,
+      "value": 300,
+      "question": "Idee just selle ettevõtte loomisest tekkis asutajal, kui ta aitas TransferWise'il testida nende isikute verifitseerimise süsteemi",
+      "answer": "Veriff"
+    },
+    {
+      "category": 0,
+      "value": 400,
+      "question": "Ettevõtte, mis valmistab tarkvara veebikasiinodele. Firma aktsiatega kaubeldakse Londoni börsil tähisega PTEC.",
+      "answer": "Playtech"
+    },
+    {
+      "category": 0,
+      "value": 500,
+      "question": "Silicon Valley riskikapitalifirma, mille investeeringute seas on muuhulas Bolt, Apple ja Google",
+      "answer": "Sequoia Capital"
+    },
+    {
+      "category": 1,
+      "value": 100,
+      "question": "Selles filmis näeb vahetult enne lennuki õhkutõusmist üks õpilastest nägemust, et lennuk kukub alla ning kõik pardal olijad hukkuvad",
+      "answer": "Lõpp-punkt (Final Destination)"
+    },
+    {
+      "category": 1,
+      "value": 200,
+      "question": "See 2024. aastal loodud Läti animafilm pälvis tänavu Oscari",
+      "answer": "Vooluga kaasa (Flow)"
+    },
+    {
+      "category": 1,
+      "value": 300,
+      "question": "Mees on muuseumis öövalvur ja üks öö ärkavad kõik muuseumieksponaadid ellu",
+      "answer": "Öö muuseumis (Night at the Museum)"
+    },
+    {
+      "category": 1,
+      "value": 400,
+      "question": "Christopher Nolani 2010. aasta filmi, kus tegelased tungivad oma ohvrite alateadvusse",
+      "answer": "Algus (Inception)"
+    },
+    {
+      "category": 1,
+      "value": 500,
+      "question": "1997. aastal valminud romantiline draamafilm, mis võitis tervelt 11 Oscarit",
+      "answer": "Titanic"
+    },
+    {
+      "category": 2,
+      "value": 100,
+      "question": "Sellel automargil on logoks lõvi",
+      "answer": "Peugeot"
+    },
+    {
+      "category": 2,
+      "value": 200,
+      "question": "Sentra, Altima, Pathfinder on kõik selle tootja mudelid",
+      "answer": "Nissan"
+    },
+    {
+      "category": 2,
+      "value": 300,
+      "question": "2024. aasta WRC hooajal sai just see autotootja kõige rohkem punkte",
+      "answer": "Toyota"
+    },
+    {
+      "category": 2,
+      "value": 400,
+      "question": "See linnamaastur oli 2024 maailma aasta auto võitja",
+      "answer": "Kia EV9"
+    },
+    {
+      "category": 2,
+      "value": 500,
+      "question": "Just see elektriauto saavutas Guinessi rekordi 26. juuli 2025 sõites 935km ühe laadimisega",
+      "answer": "Polestar 3"
+    },
+    {
+      "category": 3,
+      "value": 100,
+      "question": "Lähivise ehk",
+      "answer": "Putt"
+    },
+    {
+      "category": 3,
+      "value": 200,
+      "question": "Keskmaaketas ehk",
+      "answer": "Midrange"
+    },
+    {
+      "category": 3,
+      "value": 300,
+      "question": "Viskeala discgolfis ehk",
+      "answer": "Tiiala"
+    },
+    {
+      "category": 3,
+      "value": 400,
+      "question": "Discgolfis juhtiv organisatsioon",
+      "answer": "PDGA"
+    },
+    {
+      "category": 3,
+      "value": 500,
+      "question": "Esimene discgolfi püsirada Eestis",
+      "answer": "Mäeotsa/Jõulumäe"
+    },
+    {
+      "category": 4,
+      "value": 100,
+      "question": "Just nii nimetatakse Selveri sooduskampaaniat",
+      "answer": "Laadapäevad"
+    },
+    {
+      "category": 4,
+      "value": 200,
+      "question": "Nii mitu korda märgiti üle Saunumi IPO",
+      "answer": "10"
+    },
+    {
+      "category": 4,
+      "value": 300,
+      "question": "Selveri hüüdlause",
+      "answer": "Hea mõte"
+    },
+    {
+      "category": 4,
+      "value": 400,
+      "question": "Just see erakonda sai KOV 2025 valimistel üleriigiliselt 7.6% häältest",
+      "answer": "Parempoolsed"
+    },
+    {
+      "category": 4,
+      "value": 500,
+      "question": "See joogitootja pakkus oma reklaamis võimalust võita Harrier hävituslennukit",
+      "answer": "Pepsi"
+    }
+  ]
+}
